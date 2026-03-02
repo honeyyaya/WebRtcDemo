@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/WebRtcDemo/">
+    <file alias="Main.qml">D:/Mirror/Projects/WebRtcDemo/Main.qml</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/WebRtcDemo">
+    <file alias="qmldir">D:/Mirror/Projects/WebRtcDemo/build/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/WebRtcDemo/qmldir</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,5 @@
+--resource
+D:/Mirror/Projects/WebRtcDemo/build/Qt_6_8_3_for_Android_arm64_v8a-Debug/.qt/rcc/qmake_WebRtcDemo.qrc
+--resource
+D:/Mirror/Projects/WebRtcDemo/build/Qt_6_8_3_for_Android_arm64_v8a-Debug/.qt/rcc/appWebRtcDemo_raw_qml_0.qrc
+/qt/qml/WebRtcDemo/Main.qml

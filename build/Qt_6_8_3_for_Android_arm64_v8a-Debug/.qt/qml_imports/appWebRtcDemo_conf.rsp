@@ -1,0 +1,14 @@
+-rootPath
+D:/Mirror/Projects/WebRtcDemo
+-cmake-output
+-output-file
+D:/Mirror/Projects/WebRtcDemo/build/Qt_6_8_3_for_Android_arm64_v8a-Debug/.qt/qml_imports/appWebRtcDemo_conf.cmake
+-importPath
+D:/Mirror/Projects/WebRtcDemo/build/Qt_6_8_3_for_Android_arm64_v8a-Debug/WebRtcDemo
+-importPath
+D:/Mirror/Projects/WebRtcDemo/build/Qt_6_8_3_for_Android_arm64_v8a-Debug
+-importPath
+D:/Qt/6.8.3/android_arm64_v8a/qml
+-qrcFiles
+D:/Mirror/Projects/WebRtcDemo/build/Qt_6_8_3_for_Android_arm64_v8a-Debug/.qt/rcc/qmake_WebRtcDemo.qrc
+D:/Mirror/Projects/WebRtcDemo/build/Qt_6_8_3_for_Android_arm64_v8a-Debug/.qt/rcc/appWebRtcDemo_raw_qml_0.qrc

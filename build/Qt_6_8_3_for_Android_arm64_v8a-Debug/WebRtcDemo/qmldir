@@ -1,0 +1,5 @@
+module WebRtcDemo
+typeinfo appWebRtcDemo.qmltypes
+prefer :/qt/qml/WebRtcDemo/
+Main 254.0 Main.qml
+

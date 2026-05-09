@@ -1,0 +1,337 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-bab5b3f10e21b91eec2b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						26,
+						27
+					]
+				},
+				{
+					"build" : "libmediastream",
+					"jsonFile" : "directory-libmediastream-Debug-e88cefcf6067b0086194.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "libmediastream",
+					"targetIndexes" : 
+					[
+						24,
+						25
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "WebRtcDemo",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						26,
+						27
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "mediastream",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						24,
+						25
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "_qt_internal_apk_dependencies::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-_qt_internal_apk_dependencies-Debug-67eaa6554c3bc8403d16.json",
+					"name" : "_qt_internal_apk_dependencies",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aab::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aab-Debug-538a554c30a6e22df6b1.json",
+					"name" : "aab",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aar::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aar-Debug-3e740f181703628e2931.json",
+					"name" : "aar",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-89d7f459321babdf63fa.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-65675573f8cf5254484d.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-4312b879e8b505e1b80e.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-bf783dd72a80eb9b141a.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-96ae2e39913152c3605b.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apk::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apk-Debug-f9c3e18a3885037d39b3.json",
+					"name" : "apk",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apk_all::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apk_all-Debug-45abda2b52ad6ea4ff67.json",
+					"name" : "apk_all",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appWebRtcDemo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appWebRtcDemo-Debug-b04651e401dd8dd3bf7b.json",
+					"name" : "appWebRtcDemo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appWebRtcDemo_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appWebRtcDemo_autogen-Debug-d50cecdb8f69f3217676.json",
+					"name" : "appWebRtcDemo_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appWebRtcDemo_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appWebRtcDemo_autogen_timestamp_deps-Debug-fa024845cc2c1c0a4b0f.json",
+					"name" : "appWebRtcDemo_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appWebRtcDemo_copy_apk_dependencies::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appWebRtcDemo_copy_apk_dependencies-Debug-371b03ae0f558202c33c.json",
+					"name" : "appWebRtcDemo_copy_apk_dependencies",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appWebRtcDemo_copy_qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appWebRtcDemo_copy_qml-Debug-7000acbd5e14124e2796.json",
+					"name" : "appWebRtcDemo_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appWebRtcDemo_copy_res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appWebRtcDemo_copy_res-Debug-cc84a22b5146b668fdab.json",
+					"name" : "appWebRtcDemo_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appWebRtcDemo_make_aab::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appWebRtcDemo_make_aab-Debug-8f908265eb15c7507119.json",
+					"name" : "appWebRtcDemo_make_aab",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appWebRtcDemo_make_aar::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appWebRtcDemo_make_aar-Debug-29de66ff371e9b99dc82.json",
+					"name" : "appWebRtcDemo_make_aar",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appWebRtcDemo_make_apk::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appWebRtcDemo_make_apk-Debug-d98d8377eea2eaa164b9.json",
+					"name" : "appWebRtcDemo_make_apk",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appWebRtcDemo_prepare_apk_dir::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appWebRtcDemo_prepare_apk_dir-Debug-31e6f006c2622785d947.json",
+					"name" : "appWebRtcDemo_prepare_apk_dir",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appWebRtcDemo_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appWebRtcDemo_qmllint-Debug-ce4c878b9ee42ea628e0.json",
+					"name" : "appWebRtcDemo_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appWebRtcDemo_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appWebRtcDemo_qmllint_json-Debug-25af0351a01acc37ec21.json",
+					"name" : "appWebRtcDemo_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appWebRtcDemo_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appWebRtcDemo_qmllint_module-Debug-494667bdba6801b8c608.json",
+					"name" : "appWebRtcDemo_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appWebRtcDemo_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appWebRtcDemo_qmltyperegistration-Debug-ddd97135879d4cf38578.json",
+					"name" : "appWebRtcDemo_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "mediastream::@6b944bc3f8820207a8dd",
+					"jsonFile" : "target-mediastream-Debug-a13d920f801807e6d4b9.json",
+					"name" : "mediastream",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "mediastream_test::@6b944bc3f8820207a8dd",
+					"jsonFile" : "target-mediastream_test-Debug-a3d33b00c23a78660d6c.json",
+					"name" : "mediastream_test",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appWebRtcDemo_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appWebRtcDemo_aotstats_target-Debug-233b304e05b7347ff12e.json",
+					"name" : "module_appWebRtcDemo_aotstats_target",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qt_internal_plugins::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qt_internal_plugins-Debug-f035b7b9c2838eadfdf3.json",
+					"name" : "qt_internal_plugins",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Mirror/Projects/WebRtcDemo/build/Qt_6_8_3_for_Android_arm64_v8a-Debug",
+		"source" : "D:/Mirror/Projects/WebRtcDemo"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

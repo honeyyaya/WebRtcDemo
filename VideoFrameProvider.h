@@ -19,6 +19,7 @@
 #include <QString>
 
 #include "mediastream.h"
+// submodel 测试
 
 /// 异步图片提供者 —— 供 QML Image 组件通过 "image://video/frame" 获取最新帧
 class VideoImageProvider : public QQuickImageProvider

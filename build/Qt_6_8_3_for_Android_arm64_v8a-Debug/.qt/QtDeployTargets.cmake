@@ -1,0 +1,6 @@
+set(__QT_DEPLOY_TARGET_mediastream_FILE D:/Mirror/Projects/WebRtcDemo/build/Qt_6_8_3_for_Android_arm64_v8a-Debug/libmediastream/libmediastream.so)
+set(__QT_DEPLOY_TARGET_mediastream_TYPE SHARED_LIBRARY)
+set(__QT_DEPLOY_TARGET_mediastream_test_FILE D:/Mirror/Projects/WebRtcDemo/build/Qt_6_8_3_for_Android_arm64_v8a-Debug/libmediastream/mediastream_test)
+set(__QT_DEPLOY_TARGET_mediastream_test_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_appWebRtcDemo_FILE D:/Mirror/Projects/WebRtcDemo/build/Qt_6_8_3_for_Android_arm64_v8a-Debug/libappWebRtcDemo_arm64-v8a.so)
+set(__QT_DEPLOY_TARGET_appWebRtcDemo_TYPE MODULE_LIBRARY)
